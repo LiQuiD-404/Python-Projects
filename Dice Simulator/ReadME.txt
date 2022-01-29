@@ -1,7 +1,8 @@
-About The Project
+About The Project:
 Dice Simulator
-This is a python project which imitates an actual dice roll.
-This is unique in a very fews:
+-This is a python project which imitates an actual dice roll.
+
+This is unique in a few ways:
 ● We can choose from the different types of dice available based on our desire.
 ● Standard Die - With equal probability of each number from 1 to 6
 ● Even biased Die - Will guarantee an even throw like 2,4,6
@@ -27,6 +28,6 @@ Usage:
 
 Developer:
 Shubham Singh 
-Project Link: https://github.com/github_username/repo_name
+Project Link: https://github.com/LiQuiD-404/Python-Projects
 
 
