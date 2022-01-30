@@ -11,7 +11,7 @@
 
   <p align="center">
   A simple Python which will help you reach your daily water consumption goal
-    <br />
+  </div>
    
   
 
