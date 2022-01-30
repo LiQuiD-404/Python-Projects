@@ -10,6 +10,6 @@ if __name__ == "__main__":
         notification.notify(
             title="Take a Break! Have a glass of water",
             message=facts.fact_random(),
-            app_icon="C:\\Users\\Shubham\\PycharmProjects\\python_GUI\\water reminder\\icon.ico", timeout=12)
+            app_icon="<location of the icon.ico file>", timeout=12)
 
         time.sleep(60*60)  # Reminds the user after every one hour
