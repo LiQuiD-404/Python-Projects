@@ -4,7 +4,7 @@
 
 <div align="center">
  
-   <img src="https://raw.githubusercontent.com/LiQuiD-404/Python-Projects/main/Hydrate%20-%20Water%20Reminder/images/banner.png" alt="Logo" width = 10000 > 
+   <img src="https://raw.githubusercontent.com/LiQuiD-404/Python-Projects/main/Hydrate%20-%20Water%20Reminder/images/banner_hydrate.png" alt="Logo" width = 10000 > 
  
 
   <h3 align="center">Hydrate - Water Reminder</h3>
@@ -80,10 +80,7 @@ Only thing required is to mention the location the location of the icon image:
 ### Installation
 
 
-1. Clone the repo
-   ```sh
-   git clone https://github.com/LiQuiD-404/Project-Name.git
-   ```
+1. Download main.py, facts.py and icon.ico file and keep them in the same folder.
 2. Use any Python text editor to change the parameters as per your needs. For example the time interval between each notification can be controlled by changing the value of the below mentioned command:
    ```sh
    time.sleep(60*60)
