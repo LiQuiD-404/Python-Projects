@@ -82,11 +82,10 @@ There are no prerequisites for running this program.
 ## Logic and Usage
 
 The program uses a Difficulty System:
-* **Newbie Rock Paper Scissors** (For people who never win) - Probability of the opponent playing either rock, paper or scissors is increased to 50%. This way it becomes very easy to guess the opponents moves and hopefully you will win.
-
-* **Standard Rock Paper Scissors** - Equal probability of rock, paper and scissors i.e there is a 33% probability that the opponent defeats you.
-* **Hard Rock Paper Scissors** - Probability that the opponent defeats you is 40%.
-* **Extreme Rock Paper Scissors** (not recommended) - Either you defeat your opponent or he defeats you i.e there is no possibility of a draw.
+* Newbie Rock Paper Scissors (For people who never win) - Probability of your opponent playing either rock, paper or scissors is increased to 50%. This way it becomes very easy   to guess the opponents moves and hopefully you will win.
+* Standard Rock Paper Scissors - Equal probability of rock, paper and scissors i.e there is a 33% probability that your opponent defeats you.
+* Hard Rock Paper Scissors - Probability of your opponent defeating you is 40%.
+* Extreme Rock Paper Scissors (not recommended) - Either you defeat your opponent or he defeats you i.e there is no possibility of a draw.
 
 
 <p align="right">(<a href="#top">back to top</a>)</p>
