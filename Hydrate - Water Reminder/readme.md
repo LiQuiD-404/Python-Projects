@@ -10,7 +10,7 @@
   <h3 align="center">Hydrate - Water Reminder</h3>
 
   <p align="center">
-  A simple Python which will help you reach your daily water consumption goal
+  A simple Python Program that will help you reach your daily water consumption goal
   </div>
    
   
